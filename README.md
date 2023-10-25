@@ -30,12 +30,12 @@ WHEN I use the app
 THEN I can enhance my meal prep by trying new and diverse recipes
 ```
 ##### Screenshot
-
+![Taste Buds Unite demo](https://github.com/tishaanderson/TasteBudsUnite/issues/32#issue-1960346654)
 ##### Links
 
-https://github.com/tishaanderson/Group-Project
+[Original TBU github](https://github.com/tishaanderson/Group-Project)
 
-https://tishaanderson.github.io/TasteBudsUnite/
+[Taste Buds Unite](https://tishaanderson.github.io/TasteBudsUnite/)
 
 
 
